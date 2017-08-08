@@ -1,0 +1,69 @@
+/* INDEX */
+body {
+  background-color: black;
+  margin: 50px 100px 50px 100px;
+}
+.title {
+  height: 200px;
+}
+}
+.logo {
+  margin: auto;
+  float: left;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  position: relative; bottom: -50px;
+  
+}
+i {
+	font-size: 35px;
+	text-align: center;
+	padding: 15px;
+	
+}
+.page-links {
+	text-align: center;
+	padding-top: 20px;
+}
+.spotify {
+  color: rgb(239, 55, 199);
+}
+.soundcloud {
+  color: rgb(239, 55, 199);
+}
+.youtube {
+  color: rgb(239, 55, 199);
+}
+.title-photos {
+	text-align: center;
+	padding-top: 70px;
+}
+.img-1 {
+	padding: 20px;
+	margin: auto;
+}
+.artists {
+	
+}
+.hr2 {
+	position: relative; bottom: -200px;
+	margin: auto;
+}
+.rabbit {
+	width: 100%;
+	height: auto;
+	padding-top: 30px;
+	opacity: 0.5;
+	border-radius: 10px;
+	-moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
